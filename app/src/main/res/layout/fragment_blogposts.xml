@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    class="androidx.appcompat.app.AlertController$RecycleListView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#50554E"
+    tools:context=".main.ui.mainScreen.MainFragment">
+
+
+    <Button
+        android:id="@+id/events"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginHorizontal="20dp"
+        android:backgroundTint="#2A60FE"
+        android:text="Events"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/grants"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/events"
+        android:layout_centerInParent="true"
+        android:layout_marginHorizontal="20dp"
+        android:backgroundTint="#2A60FE"
+        android:text="Grants"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/blogposts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/events"
+        android:layout_centerInParent="true"
+        android:layout_marginHorizontal="20dp"
+        android:backgroundTint="#2A60FE"
+        android:text="Blogposts"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
