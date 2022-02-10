@@ -5,43 +5,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#50554E"
-    tools:context=".main.ui.mainScreen.MainFragment">
+    tools:context=".main.ui.blogposts.blog_post.BlogpostsFragment">
 
-
-    <Button
-        android:id="@+id/events"
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler"
         android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:layout_marginHorizontal="20dp"
-        android:backgroundTint="#2A60FE"
-        android:text="Events"
-        android:textSize="20sp"
-        android:textStyle="bold" />
+        tools:listitem="@layout/blogpost_view" />
 
-    <Button
-        android:id="@+id/grants"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/events"
-        android:layout_centerInParent="true"
-        android:layout_marginHorizontal="20dp"
-        android:backgroundTint="#2A60FE"
-        android:text="Grants"
-        android:textSize="20sp"
-        android:textStyle="bold" />
 
-    <Button
-        android:id="@+id/blogposts"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/events"
-        android:layout_centerInParent="true"
-        android:layout_marginHorizontal="20dp"
-        android:backgroundTint="#2A60FE"
-        android:text="Blogposts"
-        android:textSize="20sp"
-        android:textStyle="bold" />
 
 
 </RelativeLayout>

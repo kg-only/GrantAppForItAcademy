@@ -37,7 +37,7 @@ abstract class BaseFragment(@LayoutRes layoutRes: Int) : Fragment(layoutRes),
         arguments = (arguments ?: Bundle()).apply { putInt(extraKey, animation) }
     }
 
-    fun changeFragment(fragment: Fragment, id: Int) {
+    fun changeFragment(fragment: Fragment,id: Int) {
         val fragmentManager = requireActivity().supportFragmentManager
         val fragmentTransaction: FragmentTransaction = fragmentManager.beginTransaction()
         fragmentTransaction.addToBackStack(null)

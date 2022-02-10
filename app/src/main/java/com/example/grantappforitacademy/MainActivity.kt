@@ -2,8 +2,7 @@ package com.example.grantappforitacademy
 
 import android.os.Bundle
 import com.example.grantappforitacademy.common.mvp.BaseActivity
-import com.example.grantappforitacademy.main.ui.eventsfragment.EventFragment
-import com.example.grantappforitacademy.main.ui.mainScreen.MainFragment
+import com.example.grantappforitacademy.main.MainFragment
 
 class MainActivity : BaseActivity() {
 

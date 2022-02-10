@@ -1,7 +1,10 @@
 package com.example.grantappforitacademy.responsemodel
 
+import android.os.Parcelable
 import com.google.gson.annotations.SerializedName
+import kotlinx.parcelize.Parcelize
 
+@Parcelize
 data class ProviderAdvertComment(
     @SerializedName("id"     ) var id     : Int?    = null,
     @SerializedName("post"   ) var post   : Int?    = null,
@@ -9,4 +12,4 @@ data class ProviderAdvertComment(
     @SerializedName("user"   ) var user   : User?   = User(),
     @SerializedName("posted" ) var posted : String? = null
 
-)
+):Parcelable

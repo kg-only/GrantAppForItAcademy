@@ -3,19 +3,74 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/drawable/btn.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.2203125" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/drawable/ic_news.xml" value="0.2203125" />
         <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/blogpost_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/business_adverts_comments_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/business_adverts_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/comments_blogpost_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/comments_business_adverts_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/comments_event_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/comments_view.xml" value="0.5" />
         <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/eventComment_view.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/event_comment_view.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/event_view.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/eventinfo_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_blank.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_blog_create_comment.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_blogposts.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_business_adverts.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_business_adverts_comment.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_business_adverts_create_comment.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_business_adverts_patch.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_business_adverts_post.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_business_adverts_put.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_category.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_change_password_patch.xml" value="0.19010416666666666" />
         <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_event.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_event_comment.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_grant_comment_create.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_grant_comments.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_grants.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_info_blog_post.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_info_event.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_info_grant.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_links.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_news.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_newsletter_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_proveder_adverts.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_provider_adverts_comments.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_provider_adverts_comments_create.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_provider_adverts_post.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_question_and_answer.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_question_and_answers.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_question_and_answers_create.xml" value="0.19010416666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_sector.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_subscribe.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_un_subscribe.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_user_business.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_user_provider.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_user_register_business.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_user_register_provider.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_w.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/fragment_write_us.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/grant_comment_view.xml" value="0.20416666666666666" />
         <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/grant_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/links_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/newsletter_list_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/provider_adverts_comments_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/provider_adverts_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/question_and_answers_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/sector_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/user_business_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/user_comment_view.xml" value="0.4952120383036936" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/user_provider_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/user_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/layout/write_us_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/AndroidStudioProjects/GrantAppForItAcademy/app/src/main/res/menu/menu_fragment.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>

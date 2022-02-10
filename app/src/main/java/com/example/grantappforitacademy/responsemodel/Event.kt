@@ -15,5 +15,5 @@ data class Event(
     @SerializedName("sum") var sum: Int? = null,
     @SerializedName("event_image") var eventImage: String? = null,
     @SerializedName("description") var description: String? = null,
-    @SerializedName("comments") var comments: ArrayList<EventComment> = arrayListOf(),
+    @SerializedName("comments") var comments: List<EventComment> = arrayListOf(),
 ) : Parcelable

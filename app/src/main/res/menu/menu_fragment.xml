@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/news_menu"
+        android:icon="@drawable/ic_news"
+        android:title="News">
+
+    </item>
+    <item
+        android:id="@+id/home_menu"
+        android:icon="@drawable/ic_home"
+        android:title="Home">
+    </item>
+    <item
+        android:id="@+id/info_menu"
+        android:icon="@drawable/ic_info"
+        android:title="Info">
+    </item>
+<!--    <item-->
+<!--        android:id="@+id/category"-->
+<!--        android:icon="@drawable/ic_weather"-->
+<!--        android:title="@string/weather_item_menu">-->
+<!--    </item>-->
+
+</menu>

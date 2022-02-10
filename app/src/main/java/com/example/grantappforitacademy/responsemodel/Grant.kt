@@ -17,6 +17,8 @@ data class Grant(
     @SerializedName("logo") var logo: String? = null,
     @SerializedName("image") var image: String? = null,
     @SerializedName("created_at") var createdAt: String? = null,
-    @SerializedName("comments") var comments: ArrayList<GrantComment> = arrayListOf(),
-
-    ) : Parcelable
+    @SerializedName("comments") var comments: List<GrantComment> = arrayListOf(),
+    @SerializedName("is_grant") var isGrant: Boolean? = null,
+    @SerializedName("is_invest") var isInvest: Boolean? = null,
+    @SerializedName("tags") var tags: String? = null,
+) : Parcelable

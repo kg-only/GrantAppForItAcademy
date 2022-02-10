@@ -8,7 +8,7 @@ abstract class BaseActivity : AppCompatActivity() {
 
     fun replaceFragment(fragment: Fragment) {
         val transaction = supportFragmentManager.beginTransaction()
-        transaction.replace(R.id.frame_layout, fragment)
+        transaction.replace(R.id.main_layout, fragment)
         transaction.commit()
     }
 }

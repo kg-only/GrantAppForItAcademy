@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/white"
-    tools:context=".main.ui.grantsfragment.InfoGrantFragment">
+    tools:context=".main.ui.grants.InfoGrantFragment">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -38,7 +38,7 @@
                 tools:src="@tools:sample/avatars" />
 
             <TextView
-                android:id="@+id/descriptionTextView"
+                android:id="@+id/description"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/imageInfoView"
@@ -55,7 +55,7 @@
                 android:id="@+id/date"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@+id/descriptionTextView"
+                android:layout_below="@+id/description"
                 android:layout_marginStart="20dp"
                 android:layout_marginTop="10dp"
                 android:layout_marginEnd="20dp"
@@ -148,6 +148,62 @@
                     android:textColor="@color/black"
                     android:textSize="15sp" />
             </LinearLayout>
+            <LinearLayout
+                android:id="@+id/linearIsGrant"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linearLocation">
+
+                <TextView
+                    android:id="@+id/isGrant"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_weight="1"
+                    android:text="grant"
+                    android:textColor="@color/black"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/isInvest"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="20dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:layout_weight="1"
+                    android:text="invest"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:textSize="15sp" />
+            </LinearLayout>
+            <TextView
+                android:id="@+id/tags"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:layout_below="@+id/linearIsGrant"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="20dp"
+                android:layout_marginBottom="20dp"
+                android:layout_weight="1"
+                android:text="tags"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+            <Button
+                android:id="@+id/commentBtn"
+                android:layout_width="wrap_content"
+                android:text="Комментарии"
+                android:layout_below="@+id/tags"
+                android:layout_centerHorizontal="true"
+                android:layout_height="wrap_content">
+
+            </Button>
 
 
         </RelativeLayout>
